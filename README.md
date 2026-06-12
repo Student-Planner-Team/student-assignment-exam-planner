@@ -1,2 +1,2 @@
 # student-assignment-exam-planner
-The repo for a web application that helps university students organize assignments, exams, projects deadlines, and study sessions.
+A collaborative web application for helping students manage assignments, exams, and academic deadlines. Built to practice software engineering workflows, Git collaboration, testing, and full-stack development.
